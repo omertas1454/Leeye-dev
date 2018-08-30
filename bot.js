@@ -39,4 +39,4 @@ client.on("message", message => {
                                             }
                                                      });
                                                         
- client.login('NDg0NjY0Mzc1NTU1MjYwNDM4.DmlSuQ.HRS9d5fQK33uyYnkTWjXEw1jJzI');
+ client.login('nabacan');
